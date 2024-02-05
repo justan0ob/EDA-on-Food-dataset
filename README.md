@@ -1,7 +1,13 @@
 <h1> Where should the csv's be stored ? </h1>
 The csv file should be in the same directory as a jupyter notebook
+<h2>Requirements</h2>
+<ul>
+  <li>Jupyter notebook </li>
+  <li>Pandas should be installed</li>
+  <li>Plotly library </li>
+</ul>
 
-</h2> What's the Project about </h2>
+<h2> What's the Project about </h2>
 This project aims to do the <b>exploratory data analysis (EDA )</b> on the food dataset.
 Main aim is to provide insights into the relationships between food, nutrients, compounds, and health
 effects, facilitating informed dietary choices. 
@@ -17,10 +23,14 @@ There are 6 file on which I have worked
   <li>CompoundsHealthEffect.csv</li>
   <li>HealthEffect.csv</li>
 </ul>
-firstly I have merge the dataset for betterment and easiness.
+firstly I have merge the dataset for betterment and easiness of the dataset.
+after that the cleaning of the dataset is done. 
 In this project we can enter the name or public id of the food we will receive a detailed breakdown analysis of its nutrient and
 compound composition per 100 gm of the food in the graph. 
 Also there is functionality that enabled us to explore the top 10 foods most abundant in a particular nutrient or compound by using its
 name as well as its public id.
+The Nutritional Comparison Tool allowing us to compare the nutritional profiles of two foods side by
+side. This feature facilitated informed decision-making, guiding users towards choices aligned with their
+health goals.
 
 
