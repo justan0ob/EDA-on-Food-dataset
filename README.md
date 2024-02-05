@@ -1,4 +1,4 @@
-<h1> Where should the csv's be stored ? </h1>
+<h2> Where should the csv's be stored ? </h2>
 The csv file should be in the same directory as a jupyter notebook
 <h2>Requirements</h2>
 <ul>
