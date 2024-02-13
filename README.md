@@ -12,6 +12,7 @@ This project aims to do the <b>exploratory data analysis (EDA )</b> on the food 
 Main aim is to provide insights into the relationships between food, nutrients, compounds, and health
 effects, facilitating informed dietary choices.<br> 
 Our task in this project is to delve into the wealth of data, perform an indepth exploratory data analysis (EDA), and
+I have deal with different type of bread and try to found out whether the breads are healthy to eat over a longer period of time or not.
 uncover meaningful insights that could empower individuals, nutritionists, researchers, and food enthusiasts
 alike.This project provides practical applications for improving dietary choices and overall well-being.
 There are 6 file on which I have worked 
@@ -32,5 +33,6 @@ name as well as its public id.<br>
 The Nutritional Comparison Tool allowing us to compare the nutritional profiles of two foods side by
 side. This feature facilitated informed decision-making, guiding users towards choices aligned with their
 health goals.
+Among different type of bread what changes can be make in bread to make it more healthy for daily edible food with good content of protein and fiber in it.
 
 
