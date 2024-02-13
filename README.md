@@ -32,7 +32,7 @@ Also there is functionality that enabled us to explore the top 10 foods most abu
 name as well as its public id.<br>
 The Nutritional Comparison Tool allowing us to compare the nutritional profiles of two foods side by
 side. This feature facilitated informed decision-making, guiding users towards choices aligned with their
-health goals.
+health goals.<br>
 Among different type of bread what changes can be make in bread to make it more healthy for daily edible food with good content of protein and fiber in it.
 
 
